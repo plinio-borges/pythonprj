@@ -1,6 +1,10 @@
 {
     "alvo": "servidor-lab.interno",
+<<<<<<< HEAD
     "data_scan": "2026-09-10 12:32:03.082207",
+=======
+    "data_scan": "2026-09-09 16:45:55.187614",
+>>>>>>> d17c81a (Atualização dos arquivos alterados CXVerso)
     "ip": "127.0.0.1",
     "portas_abertas": [
         22,
@@ -10,7 +14,12 @@
     "servicos": {
         "22": "SSH",
         "80": "HTTP",
+<<<<<<< HEAD
         "443": "HTTPS"
+=======
+        "443": "HTTPS",
+        "8080": "SSH"
+>>>>>>> d17c81a (Atualização dos arquivos alterados CXVerso)
     },
     "observacoes": [
         "header CSP ausente na porta 80"

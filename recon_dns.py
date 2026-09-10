@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 #!/usr/bin/env python
+=======
+#!/usr/bin/env python3
+>>>>>>> d17c81a (Atualização dos arquivos alterados CXVerso)
 """Reconhecimento passivo via DNS - alvos autorizados."""
 import socket
 
